@@ -1,3 +1,3 @@
-number_1, number_2 = int(input()), int(input())
+number_1, number_2 = int(input('введи число ')), int(input('введи второе '))
 
-print(number_1 + number_2)
+print('сумма:', number_1 + number_2)
